@@ -6,27 +6,27 @@ A good book to learn this skill is ["Storytelling with Data" by Cole Nussbaumer 
 
 Here are the figures I made with Matplotlib:
 
-#### Area graph
+## Area graph
 
 ![Image of area graph](areagraph.png)
 
-#### Bar graph
+## Bar graph
 
 ![Image of bar graph](bargraph.png)
 
-#### Heatmap graph
+## Heatmap
 
 ![Image of heat map graph](heatmap.png)
 
-#### Line graph
+## Line graph
 
 ![Image of line graph](linegraph.png)
 
-#### Scatter plot
+## Scatter plot
 
 ![Image of scatterplot](scatterplot.png)
 
-#### slope graph
+## Slope graph
 
 ![Image of slope graph](slopegraph.png)
 
